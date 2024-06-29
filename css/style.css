@@ -1,0 +1,1106 @@
+/* candlefish font */
+
+@font-face {
+    font-family: 'Candlefish';
+    src: url('../fonts/candlefish-fonts/Candlefish.woff2') format('woff2'),
+        url('../fonts/candlefish-fonts/Candlefish.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Candlefish';
+    src: url('../fonts/candlefish-fonts/Candlefish.woff2') format('woff2'),
+        url('../fonts/candlefish-fonts/Candlefish.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* mansor font */
+
+@font-face {
+    font-family: 'Mansory BoldOblique';
+    src: url('../fonts/mansor-fonts/Mansory-BoldOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory MediumOblique';
+    src: url('../fonts/mansor-fonts/Mansory-MediumOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-MediumOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Medium.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Medium.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Bold.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Bold.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory MediumOblique';
+    src: url('../fonts/mansor-fonts/Mansory-MediumOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-MediumOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory BoldOblique';
+    src: url('../fonts/mansor-fonts/Mansory-BoldOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory Oblique';
+    src: url('../fonts/mansor-fonts/Mansory-RegularOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-RegularOblique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-SemiBold.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory Oblique';
+    src: url('../fonts/mansor-fonts/Mansory-RegularOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-RegularOblique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory SemiBoldOblique';
+    src: url('../fonts/mansor-fonts/Mansory-SemiBoldOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-SemiBoldOblique.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory SemiBoldOblique';
+    src: url('../fonts/mansor-fonts/Mansory-SemiBoldOblique.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-SemiBoldOblique.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Regular.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-Regular.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mansory';
+    src: url('../fonts/mansor-fonts/Mansory-SemiBold.woff2') format('woff2'),
+        url('../fonts/mansor-fonts/Mansory-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* gullia font */
+
+@font-face {
+    font-family: 'Gullia';
+    src: url('../fonts/gullia-fonts/Gullia-Regular.woff2') format('woff2'),
+        url('../fonts/gullia-fonts/Gullia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-family: 'Candlefish';
+}
+
+p {
+    font-family: 'Mansory';
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+[type="text"],
+[type="email"],
+[type="tel"],
+[type="number"],
+[type="search"],
+[type="color"],
+[type="date"],
+[type="datetime"],
+[type="datetime-local"],
+[type="month"],
+[type="password"],
+[type="time"],
+[type="url"],
+[type="week"],
+textarea {
+    width: 100%;
+    border: 2px solid #f1ad43;
+    background: transparent;
+    color: #fff;
+    height: 54px;
+    padding: 14px 97px 14px 14px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 5px;
+}
+
+[type="text"]::placeholder,
+[type="email"]::placeholder,
+[type="tel"]::placeholder,
+[type="number"]::placeholder,
+[type="search"]::placeholder,
+[type="color"]::placeholder,
+[type="date"]::placeholder,
+[type="datetime"]::placeholder,
+[type="datetime-local"]::placeholder,
+[type="month"]::placeholder,
+[type="password"]::placeholder,
+[type="time"]::placeholder,
+[type="url"]::placeholder,
+[type="week"]::placeholder,
+textarea::placeholder {
+    color: #fff;
+}
+
+/* web header */
+
+.descount-sec {
+    width: 100%;
+    background-color: #f1ad43;
+    padding: 20px 0;
+}
+
+.discount-inner p {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Gullia';
+}
+
+.navbar-nav .nav-item {
+    padding: 0 15px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    color: #000000;
+    padding: 0 !important;
+    font-family: 'Mansory';
+    transition: all .3s ease-in-out;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #e17f41;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.start-btn {
+    display: inline-block;
+    background: #e17f41;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'Mansory';
+    padding: 8px 10px;
+    transition: all .3s ease-in-out;
+}
+
+.start-btn:hover {
+    background-color: transparent;
+    border-radius: 0 10px 0 10px;
+    background-color: #f1ad43;
+}
+
+/* banner sec */
+
+.banner-sec {
+    width: 100%;
+    background-image: url(../images/banner-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 0;
+    background-position: center;
+}
+
+.banner-inner-box {
+    background-color: #125137;
+    border: 3px solid #f1ad43;
+    padding: 30px;
+    width: 100%;
+}
+
+.banner-inner-box h1 {
+    font-size: 43px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.banner-inner-box p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.img-text-sec {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.text-sec {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15px;
+}
+
+.text-sec p {
+    margin: 0;
+    margin: 0 12px 0 0;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 23px;
+    color: #ffffff;
+}
+
+/* customer sec */
+
+.customer-sec {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.customer-outer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.customer-box {
+    width: 16.66%;
+    text-align: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.customer-box::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 53px;
+    background-color: #d1d3d4;
+    top: 13px;
+    right: 0;
+}
+
+.customer-box:last-child::before {
+    display: none;
+}
+
+.customer-box-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* homecook-meal-sec */
+
+.homecook-meal-sec {
+    width: 100%;
+    background-color: #ffe7c2;
+    padding: 50px 0;
+}
+
+.homecook-meal-inner h2 {
+    font-size: 38px;
+    letter-spacing: 1px;
+    line-height: 55px;
+    color: #125137;
+    text-align: center;
+    font-weight: 600;
+}
+
+.homecook-meal-inner h2 span {
+    text-transform: uppercase;
+}
+
+.homecook-meal-inner-bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.homecook-meal-box {
+    width: 25%;
+    text-align: center;
+    padding: 0 44px;
+    position: relative;
+}
+
+.homecook-meal-box::before {
+    content: "";
+    position: absolute;
+    background-color: #e18041;
+    width: 2px;
+    height: 160px;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+}
+
+.homecook-meal-box:last-child:before {
+    display: none;
+}
+
+.homecook-meal-box img {
+    width: 130px;
+    margin-bottom: 15px;
+}
+
+.homecook-meal-box h3 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #125137;
+    font-weight: 600;
+}
+
+.homecook-meal-box p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.homecook-btn-sec {
+    text-align: center;
+    margin-top: 60px;
+}
+
+/* zone sec */
+
+.zone-sec {
+    width: 100%;
+    background-color: #e18041;
+    padding: 25px 0;
+}
+
+.zone-inner h2 {
+    font-size: 45px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* review sec */
+
+.review-left h3 {
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 37px;
+    color: #125137;
+}
+
+.trast-img {
+    width: 120px;
+}
+
+.review-inner {
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.review-left {
+    width: 20%;
+}
+
+.review-right {
+    width: 80%;
+}
+
+.review-box {
+    padding: 90px 15px;
+}
+
+.review-box-inner {
+    width: 100%;
+    filter: drop-shadow(0px 40px 55.5px rgba(18, 81, 55, 0.09));
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.review-box-inner h3 {
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.review-box-inner p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.name-star-sec {
+    margin-top: 15px;
+}
+
+.name-star-sec h4 {
+    font-size: 19px;
+    letter-spacing: 2px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #125137;
+    font-weight: 600;
+}
+
+.review-sec {
+    width: 100%;
+}
+
+.name-star-sec img {
+    width: 106px;
+}
+
+/* next cooking sec */
+
+.next-cooking-sec {
+    width: 100%;
+    background-color: #125137;
+    padding: 50px 0;
+}
+
+.next-cooking-inner h2 {
+    font-size: 45px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #f1ad43;
+    text-align: center;
+}
+
+.next-cooking-inner p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.next-cooking-inner h2 span {
+    text-transform: uppercase;
+}
+
+.cooking-box img {
+    width: 100%;
+}
+
+.cooking-box h3 a {
+    display: inline-block;
+    font-size: 21px;
+    letter-spacing: 3px;
+    line-height: 39px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+    transition: all .3s ease-in-out;
+}
+
+.cooking-box h3 a:hover {
+    color: #e17f41;
+}
+
+.cooking-box p {
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 44px;
+    text-transform: uppercase;
+    color: #f1ad43;
+    text-align: left;
+    font-weight: 600;
+}
+
+.next-cooking-bottom {
+    margin-top: 45px;
+}
+
+/* served sec */
+
+.served-sec {
+    width: 100%;
+    background-color: #f1ad43;
+    padding: 60px 0;
+}
+
+.served-inner-sec h2 {
+    font-size: 42px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #125137;
+    text-align: center;
+    font-weight: 600;
+}
+
+.served-bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin: 50px -44px 0 -44px; */
+    margin-top: 50px;
+}
+
+.served-box {
+    width: 33.33%;
+    padding: 0 44px;
+    position: relative;
+}
+
+.served-box::before {
+    content: "";
+    position: absolute;
+    background-color: #e18041;
+    width: 2px;
+    height: 160px;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+}
+
+.served-box:last-child:before {
+    display: none;
+}
+
+.served-box h3 {
+    font-size: 25px;
+    letter-spacing: 3px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #125137;
+    font-weight: 600;
+    margin: 15px 0 10px 0;
+}
+
+.served-box p {
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: #125137;
+}
+
+.green-start-btn {
+    background-color: #125137;
+    color: #fff;
+    transition: all .3s ease-in-out;
+}
+
+.green-start-btn:hover {
+    background-color: #e17f41 !important;
+}
+
+/* banner two sec */
+
+.banner-two-sec {
+    width: 100%;
+    background-image: url(../images/banner2-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 0;
+    background-position: center;
+}
+
+.banner-two-box {
+    width: 100%;
+    max-width: 70%;
+    background-color: #125137;
+    border: 3px solid #f1ad43;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.banner-two-box p {
+    font-size: 19px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.mission-info-box {
+    background-color: #125137;
+    padding: 45px 30px;
+}
+
+.mission-info-box h2 {
+    font-size: 47px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #f1ad43;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.mission-info-box p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color: #ffffff;
+    margin-bottom: 18px;
+}
+
+.mission-img-box img {
+    height: 662px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.mission-sec {
+    width: 100%;
+    padding: 70px 0;
+}
+
+/* extra sec */
+
+.extra-section {
+    width: 100%;
+    background-color: #ffe7c2;
+    padding: 70px 0;
+}
+
+.extra-inner-sec h2 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #125137;
+    text-align: center;
+    font-weight: 600;
+}
+
+.extra-inner-sec h2 span {
+    text-transform: uppercase;
+}
+
+.extra-bottom-sec {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.extra-text {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.extra-text p {
+    font-size: 22px;
+    letter-spacing: 3px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #125137;
+    font-family: 'Candlefish';
+    margin-right: 12px;
+}
+
+.extra-box a {
+    transition: all .3s ease-in-out;
+}
+
+.extra-text img {
+    transition: all .3s ease-in-out;
+}
+
+.extra-box a:hover .extra-text img {
+    transform: translate(5px);
+}
+
+.extra-img {
+    position: relative;
+}
+
+.extra-img::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 100%;
+    background-color: #f1ad43b5;
+    left: 0;
+    top: 0;
+    transition: all .3s ease-in-out;
+}
+
+.extra-box a:hover .extra-img::before {
+    width: 100%;
+}
+
+.extra-right-img {
+    height: 703px;
+    width: 100%;
+}
+
+/* email sec */
+
+.email-sec {
+    width: 100%;
+    background-color: #e18041;
+    padding: 70px 0;
+}
+
+.email-inner-sec h2 {
+    font-size: 36px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.email-inner-sec {
+    width: 100%;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.email-input-sec {
+    width: 100%;
+    position: relative;
+}
+
+.email-input-sec button {
+    position: absolute;
+    right: 7px;
+    top: 0;
+    background: transparent;
+    border: 0;
+    height: 100%;
+}
+
+.email-input-sec button img {
+    transition: all .3s ease-in-out;
+}
+
+.email-input-sec button:hover img {
+    transform: translate(2px);
+}
+
+/* amazing sec */
+
+.community-sec {
+    width: 100%;
+    background-color: #125137;
+    padding: 50px 0 20px 0;
+}
+
+.community-inner-sec h2 {
+    font-size: 45px;
+    letter-spacing: 4px;
+    line-height: 55px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.community-bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 15px;
+}
+
+.community-box {
+    width: 16.66%;
+    padding: 15px 15px;
+}
+
+.community-box a {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: all .3s ease-in-out;
+}
+
+.community-box a:hover .over-lay-sec {
+    opacity: 1;
+}
+
+.community-box a .over-lay-sec {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: #f1ad43b5;
+    transition: all .3s ease-in-out;
+}
+
+.community-box a .over-lay-sec i {
+    font-size: 35px;
+    color: #fff;
+}
+
+/* web footer */
+
+.footer-top {
+    width: 100%;
+    background-color: #ffe7c2;
+    padding: 50px 0;
+}
+
+.footer-list-sec ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.footer-list-sec ul li {
+    padding: 0 10px;
+    position: relative;
+}
+
+.footer-list-sec ul li::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 21px;
+    background-color: #e17f41;
+    top: 8px;
+    right: 0;
+}
+
+.footer-list-sec ul li:last-child:before {
+    display: none;
+}
+
+.footer-list-sec ul li a {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #000000;
+    font-family: 'Mansory';
+    font-weight: 600;
+    transition: all .3s ease-in-out;
+}
+
+.footer-list-sec ul li a:hover {
+    color: #e17f41;
+}
+
+.payment-social-media-sec {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.paymant-sec img {
+    width: 360px;
+}
+
+.social-media-sec ul {
+    display: flex;
+    align-items: center;
+}
+
+.social-media-sec ul li {
+    padding: 0 5px;
+}
+
+.social-media-sec ul li a {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+.facebook {
+    background: #0866FF;
+}
+
+.instragram {
+    background: linear-gradient(180deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.linkdin {
+    background-color: #0077b5;
+}
+
+.twitter {
+    background-color: #000000;
+}
+
+.footer-bottom {
+    width: 100%;
+    background: #125137;
+    padding: 15px 0;
+}
+
+.footer-bottom-inner p {
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 600;
+}
+
+.footer-bottom-inner p a {
+    color: #fff;
+    display: inline-block;
+    transition: all .3s ease-in-out;
+}
+
+.footer-bottom-inner p a:hover {
+    color: #e17f41;
+}
+
+#toTop {
+    position: fixed;
+    right: 18px;
+    bottom: 50px;
+    background: #e17f41;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+    cursor: pointer;
+    transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+}
+
+#toTop.show {
+    opacity: 1;
+    visibility: visible;
+}
